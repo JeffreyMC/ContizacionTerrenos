@@ -10,7 +10,7 @@
 * Netbeans 8.2
 * Ubuntu 20.04
 
-##Capturas
+## Capturas
 
 ![Principal](image1.png)
 
